@@ -1,0 +1,34 @@
+
+# ==========================================
+# DocumentHub
+# Target Python: 3.14.6
+# ==========================================
+
+# Document processing and AI integration
+langchain-core
+pymupdf
+
+# Microsoft Word
+python-docx
+
+# Microsoft Excel
+openpyxl
+
+# Microsoft PowerPoint
+python-pptx
+
+# ==========================================
+# Development and testing
+# ==========================================
+
+pytest
+pytest-cov
+ruff
+mypy
+
+# ==========================================
+# Build and packaging
+# ==========================================
+
+hatchling
+build
